@@ -9,7 +9,7 @@ Lab 2 - introduction to machine learning
 
 1. Clone the repository:
    ```bash
-   gir clone https://github.com/minareda417/MNIST-classification.git
+   git clone https://github.com/minareda417/MNIST-classification.git
    cd MNIST-classification
     ```
 2. Create and activate a virtual environment:
